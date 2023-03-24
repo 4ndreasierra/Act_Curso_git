@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 El veloz murcielago indu comia feliz cardillo y kigui
 La cigüeña toca el saxofon detrás del palenque de paja
+=======
+El veloz murciélago hindú comía feliz cardillo y kiwi
+>>>>>>> corregir
